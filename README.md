@@ -4,4 +4,4 @@
 * detections, dpeth_frame을 가로로 합쳐서 출력
 * ubuntu 18.04
 * pyrealsense2 설치 (함수 이름 참고 : https://intelrealsense.github.io/librealsense/python_docs/_generated/pyrealsense2.html)
-* parser 설정 중요
+* def parser 설정해야 할 수도 있음.
